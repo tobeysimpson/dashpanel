@@ -26,5 +26,10 @@
     "node-sass": "^4.9.0",
     "sass-loader": "^7.0.1",
     "vue-template-compiler": "^2.5.17"
+  },
+  "eslintConfig": {
+    "extends": [
+      "eslint-config-netlify"
+    ]
   }
 }
